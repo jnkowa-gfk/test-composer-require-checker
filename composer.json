@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Foo\\": "src/"
+        }
+    },
+    "require": {
+        "ext-libxml": "*"
+    },
+    "require-dev": {
+        "maglnet/composer-require-checker": "^3.2"
+    }
+}
